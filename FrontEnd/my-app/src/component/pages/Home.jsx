@@ -8,9 +8,10 @@ import { IoIosTimer } from "react-icons/io";
 import Profile from '../../image/profile.png'
 import { NavLink } from 'react-router-dom'
 
+
 const Home = () => {
   return (
-    <div className='p-4'>
+      <div className='p-4'>
         <div className="top-home flex justify-center mt-14 gap-10">
             <div className="slide-text">
             <h3 className='font-bold text-5xl mt-10 text-[#181818]'>Find the right freelance<br></br> service,<br></br> right away</h3>
